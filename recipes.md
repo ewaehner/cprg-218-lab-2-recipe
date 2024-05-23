@@ -113,3 +113,15 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### chocolate milkshake
+Ingredients
+- 2 cups milk
+- 2 scoops vanilla ice cream
+- 1/4 tbsp vanilla extract
+- 3 tbsps chocolate sauce
+
+Instructions
+1. Add all ingredients into a blender
+2. Blend on high for 1 minute
+3. pour into a glass and enjoy
