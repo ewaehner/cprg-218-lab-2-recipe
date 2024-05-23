@@ -62,7 +62,7 @@ Ingredients:
 
 Instructions:
 1. Cook spaghetti according to package instructions.
-2. In a mixing bowl, combine ground beef, bread crumbs, milk, Parmesan cheese, egg, garlic, salt, and pepper.
+2. In a mixing bowl, combine ground beef, bread crumbs, milk, Parmesan cheese, egg, garlic, salt, and pepper and italian spices.
 3. Form mixture into meatballs.
 4. In a large skillet, brown meatballs over medium-high heat.
 5. Add spaghetti sauce to the skillet and bring to a simmer.
@@ -76,6 +76,7 @@ Ingredients:
 - Salt and pepper to taste
 - 2 tablespoons olive oil
 - 4 slices Swiss cheese
+- 2 slices of cheddar cheese
 - 4 hamburger buns
 - Lettuce
 - Tomato
