@@ -45,6 +45,7 @@ Instructions:
 3. In a mixing bowl, combine tomatoes, red onion, garlic, olive oil, and balsamic vinegar.
 4. Season with salt and pepper to taste.
 5. Top each toasted baguette slice with the tomato mixture.
+6. Make it again because bread is great.
 
 ## Entrees
 ### Spaghetti and Meatballs
